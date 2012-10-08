@@ -1,0 +1,84 @@
+10
+
+dir
+1
+https://github.com/ajaydeep/rent/application
+https://github.com/ajaydeep/rent
+
+
+
+2012-07-09T12:10:04.000000Z
+1
+ajaydeep
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f1a9736e-4d04-8143-e524-ce57b7db7bff
+
+adminLayouts
+dir
+
+
+
+add
+
+bootstrap.php
+file
+0
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+controllers
+dir
+
+
+
+add
+
+forms
+dir
+
+
+
+add
+
+layouts
+dir
+
+
+
+add
+
+models
+dir
+
+
+
+add
+
+views
+dir
+
+
+
+add
+
